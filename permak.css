@@ -1,0 +1,21 @@
+body {
+    background: #f8ede3;
+}
+
+.container {
+
+    padding: 20px;
+}
+
+table {
+    background: #bdd2b6;
+}
+
+thead {
+    background: #a2b29f;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}

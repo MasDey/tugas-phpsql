@@ -1,7 +1,7 @@
 # tugas-phpsql-sederhana
 2021- Matkul web programming 2 - Stekom 
 
-Menggunaan
+Menggunakan
 - HTML
 - CSS
 - Bootstrap
